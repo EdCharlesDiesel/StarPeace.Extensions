@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StarPeace.Extension/1.0.0": {
+        "runtime": {
+          "StarPeace.Extension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StarPeace.Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

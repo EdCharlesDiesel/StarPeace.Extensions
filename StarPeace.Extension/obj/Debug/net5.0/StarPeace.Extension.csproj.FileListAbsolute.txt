@@ -1,0 +1,12 @@
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\bin\Debug\net5.0\StarPeace.Extension.deps.json
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\bin\Debug\net5.0\StarPeace.Extension.dll
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\bin\Debug\net5.0\ref\StarPeace.Extension.dll
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\bin\Debug\net5.0\StarPeace.Extension.pdb
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.csproj.AssemblyReference.cache
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.AssemblyInfoInputs.cache
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.AssemblyInfo.cs
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.csproj.CoreCompileInputs.cache
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.dll
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\ref\StarPeace.Extension.dll
+C:\Khotso\Projects\StarPeace.Extensions\StarPeace.Extension\obj\Debug\net5.0\StarPeace.Extension.pdb
