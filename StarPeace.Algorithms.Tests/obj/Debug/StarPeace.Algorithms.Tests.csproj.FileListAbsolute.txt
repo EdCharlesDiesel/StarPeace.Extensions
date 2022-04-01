@@ -1,0 +1,5 @@
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms.Tests\bin\Debug\StarPeace.Algorithms.Tests.dll
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms.Tests\bin\Debug\StarPeace.Algorithms.Tests.pdb
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms.Tests\obj\Debug\StarPeace.Algorithms.Tests.csprojResolveAssemblyReference.cache
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms.Tests\obj\Debug\StarPeace.Algorithms.Tests.dll
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms.Tests\obj\Debug\StarPeace.Algorithms.Tests.pdb

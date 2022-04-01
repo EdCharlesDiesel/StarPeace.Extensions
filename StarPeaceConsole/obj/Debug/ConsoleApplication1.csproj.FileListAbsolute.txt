@@ -1,0 +1,6 @@
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

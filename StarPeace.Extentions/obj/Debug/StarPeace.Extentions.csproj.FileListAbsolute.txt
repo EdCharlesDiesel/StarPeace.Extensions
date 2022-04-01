@@ -1,0 +1,4 @@
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Extentions\bin\Debug\StarPeace.Extentions.dll
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Extentions\bin\Debug\StarPeace.Extentions.pdb
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Extentions\obj\Debug\StarPeace.Extentions.dll
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Extentions\obj\Debug\StarPeace.Extentions.pdb

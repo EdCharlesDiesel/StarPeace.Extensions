@@ -1,0 +1,6 @@
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\bin\Debug\StarPeace.Algorithms.exe.config
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\bin\Debug\StarPeace.Algorithms.exe
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\bin\Debug\StarPeace.Algorithms.pdb
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\obj\Debug\StarPeace.Algorithms.csprojResolveAssemblyReference.cache
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\obj\Debug\StarPeace.Algorithms.exe
+C:\Khotso\StarPeaceExtentionSolution\StarPeace.Algorithms\obj\Debug\StarPeace.Algorithms.pdb

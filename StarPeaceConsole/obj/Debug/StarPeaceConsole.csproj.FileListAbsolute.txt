@@ -1,0 +1,15 @@
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\StarPeaceConsole.csprojResolveAssemblyReference.cache
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Khotso\StarPeaceExtentionSolution\ConsoleApplication1\bin\Debug\StarPeaceConsole.exe.config
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\bin\Debug\StarPeaceConsole.exe.config
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\obj\Debug\StarPeaceConsole.csprojResolveAssemblyReference.cache
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\bin\Debug\StarPeaceConsole.exe
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\bin\Debug\StarPeaceConsole.pdb
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\obj\Debug\StarPeaceConsole.exe
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\obj\Debug\StarPeaceConsole.pdb
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\bin\Debug\StarPeace.Extentions.dll
+C:\Khotso\StarPeaceExtentionSolution\StarPeaceConsole\bin\Debug\StarPeace.Extentions.pdb
